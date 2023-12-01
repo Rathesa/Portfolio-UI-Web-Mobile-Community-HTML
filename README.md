@@ -1,3 +1,3 @@
 # Portfolio-UI-Web-Mobile-Community-HTML
 
-[Edit here](https://rathesa.dev/~/gh/Rathesa/Rathesa.github.io)
+[Edit here](https://Rathesa.dev/~/gh/Rathesa/Rathesa.github.io)
